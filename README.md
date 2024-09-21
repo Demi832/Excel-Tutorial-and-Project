@@ -1,4 +1,4 @@
-# Excel-Concepts-and-Project
+# Excel Concepts and Project
 This repository holds a collection of Excel files showcasing key concepts learned in Excel and a project putting everything together.
 
 # Excel Concepts Include

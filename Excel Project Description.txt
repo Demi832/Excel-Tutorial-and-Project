@@ -1,0 +1,26 @@
+Cleaning Process
+First Remove duplicates using Remove Duplicates in Data Tab
+
+Changed M and S's to Married and Single under Marital Status for easier data interpretation. Was done Using Find and Replace (CTRL + H) and searching by Columns as we have 2 instances of Ms in the data
+
+Changed Income data from general to currency
+
+Used filter to check for spelling errors in each column by clicking on dropdowns and examining the data
+
+Creating a new column for age data to make it easier to understand and less messy. Categorized them into 3 in order to make it more usable
+
+Fixed "10+ Miles" by changing it to "More than 10 Miles". it was causing an issue in the pivot table where it came after 0-1 miles
+
+Pivot Table
+Clicked Pivot table in new tab created at bottom then went to the select all arrow after clicking pivot table in pivot tab
+
+Cicked the arrow then CRTL+ A, then hit ok
+
+Dashboard looking at average income of someone who bought or didn't buy a bike
+
+Selcted income, broke it into male and female
+
+Created 3 charts highlighting important info about the data set
+
+Created A Dashboard with the pivot tables and slicers to view the data based on Marital Status, Region and Education
+
